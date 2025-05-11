@@ -33,10 +33,9 @@ nav {
     margin: 0 auto;
 }
 
-.logo {
-    color: #fff;
-    font-size: 2rem;
-    font-weight: bold;
+.logo img {
+  height: 80px; /* Збільшений розмір логотипу */
+  width: auto;
 }
 
 nav ul {
